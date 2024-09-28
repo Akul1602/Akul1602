@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! I'm **Akul Kohli**, a driven Software Developer with a strong foundation in frontend technologies and skills in Java. I graduated in 2023 and have been actively honing my skills in web development, including HTML, CSS, JavaScript, and MySQL. 
+Hello! I'm **Akul Kohli**, a driven Software Developer with a strong foundation in frontend technologies and skills in Java and Python. I graduated in 2023 and have been actively honing my skills in web development, including HTML, CSS, JavaScript, and MySQL. 
 
 ## Skills
 
